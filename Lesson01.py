@@ -33,4 +33,4 @@ def multiplication_table(a, b):
             for j in range(1, b+1):
                 print(f'{i : 3} \t x \t {j : 3} \t = \t {i * j : 3}')
 
-multiplication_table(1.1, 12);
+multiplication_table('sdcsd', -1);
